@@ -149,10 +149,7 @@ The primary goal of this project is to:
 
 ## 🛠️ Tools & Technologies Used
 
-- **Microsoft Excel**: Data modeling, charting
-- **PowerPoint / Word**: Reporting
-- **Power BI / Tableau (Suggested)**: Dashboard creation
-- **Python / Pandas (Optional)**: For scalable analysis and automation
+- **Microsoft Excel**: Data modeling, charting, Dashboard creation, Reporting
 
 ---
 
