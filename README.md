@@ -1,4 +1,7 @@
-# 📊 Vrinda Store Annual Data Analysis & Business Intelligence
+# 📊 Store Annual Data Analysis & Business Intelligence
+
+![image](https://github.com/user-attachments/assets/8a2c2742-3373-460f-9af9-3bc916b31050)
+
 
 Welcome to the **Vrinda Store Data Analytics Project**, a comprehensive business intelligence report and visual dashboarding initiative aimed at transforming raw transactional data into actionable insights. This project provides a 360° view of Vrinda Store’s annual performance, helping stakeholders make data-driven decisions in sales, marketing, inventory planning, and customer engagement.
 
@@ -45,6 +48,9 @@ The primary goal of this project is to:
 - Descriptions mapped via `DashboardElement-Description.csv`.
 
 ---
+
+![image](https://github.com/user-attachments/assets/dd7291b4-ccba-43b2-8d86-cb5a937219bd)
+
 
 ## 📈 Key Business Insights
 
@@ -150,12 +156,7 @@ The primary goal of this project is to:
 
 ---
 
-## 🔮 Future Work & Extensions
-
-- 📦 **Inventory Optimization Model**: Integrate returns/cancellations to reduce dead stock.
-- 📊 **Interactive Dashboards**: Implement in Power BI for real-time tracking.
-- 💬 **Sentiment Analysis**: Use customer reviews to enhance product alignment.
-- 🧠 **Machine Learning**: Predictive models for monthly sales and customer churn.
+![image](https://github.com/user-attachments/assets/e814e60a-e3f8-481d-b2b7-7c4c187f2507)
 
 ---
 
