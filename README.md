@@ -1,4 +1,4 @@
-# 📊 Store Annual Data Analysis & Business Intelligence
+# 📊 Store Annual Data Analysis 
 
 ![image](https://github.com/user-attachments/assets/49fc76a2-d6bd-4e28-8da8-bd19dfb5ae91)
 
